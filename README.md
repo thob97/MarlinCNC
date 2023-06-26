@@ -43,7 +43,6 @@ While we can't prevent the use of this code in products (3D printers, CNC, etc.)
 
 ## Acknowledgments
 
-Most of the code is from:
 * [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
 
 
