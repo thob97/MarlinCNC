@@ -24,7 +24,7 @@ If you don't want to change any of the source code and use my settings as is, yo
 
 ### Installing
 
-* git clone https://github.com/thob97/submodule-Marlin.git
+* git clone [https://github.com/thob97/submodule-Marlin.git](https://github.com/thob97/MarlinCNC.git)
 * cd submodule-Marlin
 
 ## Building Marlin 2.0
