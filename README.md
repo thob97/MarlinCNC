@@ -17,7 +17,7 @@ Marlin changed to work for my specific cnc setup.
 ### Dependencies
 
 If you don't want to change any of the source code and use my settings as is, you would need my exact setup, which consists out of:
-* TMC2208 drivers
+* TMC2209 drivers
 * BIGTREETECH SKR Mini E3 V2.0 Control Board 32 Bit
 * BIGTREETECH TFT35 E3 V3.0
 * 3040 China CNC
