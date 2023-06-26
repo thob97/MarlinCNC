@@ -24,8 +24,8 @@ If you don't want to change any of the source code and use my settings as is, yo
 
 ### Installing
 
-* git clone [https://github.com/thob97/submodule-Marlin.git](https://github.com/thob97/MarlinCNC.git)
-* cd submodule-Marlin
+* ```git clone https://github.com/thob97/MarlinCNC.git```
+* ```cd submodule-Marlin```
 
 ## Building Marlin 2.0
 
@@ -43,14 +43,14 @@ While we can't prevent the use of this code in products (3D printers, CNC, etc.)
 
 ## Acknowledgments
 
-Forked from:
-* [https://github.com/matiassingers/awesome-readme](https://github.com/MarlinFirmware/Marlin)
+Most of the code is from:
+* [MarlinFirmware/Marlin](https://github.com/MarlinFirmware/Marlin)
 
 
 
 
 
-
+<br /><br /><br /><br /><br /><br /><br /><br /><br />
 
 
 
