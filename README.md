@@ -1,3 +1,60 @@
+# MarlinCNC
+
+Marlin changed to work for my specific cnc setup.
+
+## Table Of Content
+
+- [Getting Started](#getting-started)
+    - [Dependencies](#dependencies)
+    - [Installing](#installing)
+    - [Building Marlin 2.0](#building-marlin-20)
+- [License](#license)
+- [Acknowledgments](#acknowledgments)
+- [Forked Projekt ReadMe](#marlin-3d-printer-firmware)
+
+## Getting Started
+
+### Dependencies
+
+If you don't want to change any of the source code and use my settings as is, you would need my exact setup, which consists out of:
+* TMC2208 drivers
+* BIGTREETECH SKR Mini E3 V2.0 Control Board 32 Bit
+* BIGTREETECH TFT35 E3 V3.0
+* 3040 China CNC
+
+### Installing
+
+* git clone https://github.com/thob97/submodule-Marlin.git
+* cd submodule-Marlin
+
+## Building Marlin 2.0
+
+To build Marlin 2.0 you'll need [Arduino IDE 1.8.8 or newer](https://www.arduino.cc/en/main/software) or [PlatformIO](http://docs.platformio.org/en/latest/ide.html#platformio-ide). Detailed build and install instructions are posted at:
+
+  - [Installing Marlin (Arduino)](http://marlinfw.org/docs/basics/install_arduino.html)
+  - [Installing Marlin (VSCode)](http://marlinfw.org/docs/basics/install_platformio_vscode.html).
+
+## License
+
+Marlin is published under the [GPL license](/LICENSE) because we believe in open development. The GPL comes with both rights and obligations. Whether you use Marlin firmware as the driver for your open or closed-source product, you must keep Marlin open, and you must provide your compatible Marlin source code to end users upon request. The most straightforward way to comply with the Marlin license is to make a fork of Marlin on Github, perform your modifications, and direct users to your modified fork.
+
+While we can't prevent the use of this code in products (3D printers, CNC, etc.) that are closed source or crippled by a patent, we would prefer that you choose another firmware or, better yet, make your own.
+
+
+## Acknowledgments
+
+Forked from:
+* [https://github.com/matiassingers/awesome-readme](https://github.com/MarlinFirmware/Marlin)
+
+
+
+
+
+
+
+
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
