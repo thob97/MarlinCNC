@@ -9,6 +9,7 @@ Marlin changed to work for my specific cnc setup.
     - [Installing](#installing)
     - [Building Marlin 2.0](#building-marlin-20)
 - [License](#license)
+- [Related](#related)
 - [Acknowledgments](#acknowledgments)
 - [Forked Projekt ReadMe](#marlin-3d-printer-firmware)
 
@@ -40,6 +41,12 @@ Marlin is published under the [GPL license](/LICENSE) because we believe in open
 
 While we can't prevent the use of this code in products (3D printers, CNC, etc.) that are closed source or crippled by a patent, we would prefer that you choose another firmware or, better yet, make your own.
 
+
+## Related
+* [3040 CNC Marlin](https://github.com/thob97/3040-CNC-marlin.git)
+* [CNC-BIGTREETECH-TouchScreenFirmware](https://github.com/thob97/CNC-BIGTREETECH-TouchScreenFirmware.git)
+* [MarlinCNC](https://github.com/thob97/MarlinCNC.git)
+* [submodule-mpcnc_post_processor](https://github.com/thob97/submodule-mpcnc_post_processor.git)
 
 ## Acknowledgments
 
